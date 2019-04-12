@@ -16,6 +16,7 @@ _!n_ command shows the last nth command.
 There is also I/O redirection function.
 A sample terminal line for I/O redirection:
 > program arg1 arg2 > outputfile
+
 For the I/O redirection if the redirection character is >, the output file is created if it does not exist and truncated if it does. 
 If the redirection symbol is >> then the output file is created if it does not exist and appended if it does.
 
