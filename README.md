@@ -4,7 +4,7 @@ This code was developed by **Doruk Taneli** and **Ekin Ozkan** as a project of O
 
 ### Description
 
-We implemented an interactive linux shell that can exucute common UNIX commands and some custom commands. 
+We implemented an interactive linux shell that can execute common UNIX commands and some custom commands. 
 
 The shell supports background execution of commands with an ampersand (&) at the end of the commandline.
 
